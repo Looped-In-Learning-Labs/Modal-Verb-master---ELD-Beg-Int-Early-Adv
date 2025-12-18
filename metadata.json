@@ -1,0 +1,7 @@
+{
+  "name": "Modal Master: Speak & Learn",
+  "description": "An interactive ELD (English Language Development) tool designed for beginner learners to practice 'Should', 'Could', and 'Would' with AI-powered visual aids, pronunciation support, and bilingual feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
